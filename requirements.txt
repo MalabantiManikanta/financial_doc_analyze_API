@@ -1,0 +1,10 @@
+Django
+djangorestframework
+PyMuPDF
+pytesseract
+pdf2image
+Pillow
+streamlit
+requests
+torch
+transformers
